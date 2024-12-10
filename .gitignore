@@ -1,0 +1,5 @@
+name.txt
+*.pptx
+!1.pptx
+MAD_45.xlsx
+img.png
